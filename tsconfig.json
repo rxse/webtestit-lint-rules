@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "outDir": "./dist",
+    "lib": [
+      "es2017",
+      "es7",
+      "dom",
+      "dom.iterable",
+      "scripthost",
+      "es2017.object"
+    ]
+  },
+  "include": [
+    "src"
+  ]
+}
