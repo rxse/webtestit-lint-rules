@@ -4,7 +4,7 @@ A collection of tslint rules used for [Ranorex Webtestit](https://www.ranorex.co
 
 ## Rules
 
-* `protractor-no-identical-title-rule` : Prohibits the use of duplicate it/describe names
+* `protractor-no-identical-title: true` Prohibits the use of duplicate it/describe names
 
 > This is used to ensure protractor's `--grep` cli parameter gets a unique full testname
 
